@@ -8,5 +8,7 @@ A Chatbot that can answer questions about binus using nltk, pytorch, and natural
 
 ## Links
 
-- [PDF Report] : 
-- [Video Demo] : 
+- [PDF Report] : https://drive.google.com/drive/folders/1JEFBTFTJYUD24jLqv7CkMdZZ1XMEJg0m?usp=sharing
+
+- [Video Demo] : https://drive.google.com/drive/folders/1JEFBTFTJYUD24jLqv7CkMdZZ1XMEJg0m?usp=sharing  
+
